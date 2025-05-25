@@ -1,0 +1,332 @@
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\appsettings.json
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.staticwebassets.endpoints.json
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.exe
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.deps.json
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.runtimeconfig.json
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\StoreApi.pdb
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dfnaf\StoreApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.csproj.AssemblyReference.cache
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.AssemblyInfoInputs.cache
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.AssemblyInfo.cs
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.csproj.CoreCompileInputs.cache
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\scopedcss\bundle\StoreApi.styles.css
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets\msbuild.StoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets\msbuild.StoreApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets\msbuild.build.StoreApi.props
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StoreApi.props
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StoreApi.props
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.csproj.Up2Date
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.dll
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\refint\StoreApi.dll
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.pdb
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\StoreApi.genruntimeconfig.cache
+C:\Users\dfnaf\StoreApi\obj\Debug\net9.0\ref\StoreApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\appsettings.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.staticwebassets.endpoints.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.exe
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.deps.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.runtimeconfig.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\StoreApi.pdb
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Humanizer.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.csproj.AssemblyReference.cache
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.AssemblyInfoInputs.cache
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.AssemblyInfo.cs
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.csproj.CoreCompileInputs.cache
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\scopedcss\bundle\StoreApi.styles.css
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets\msbuild.StoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets\msbuild.StoreApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets\msbuild.build.StoreApi.props
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StoreApi.props
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StoreApi.props
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.csproj.Up2Date
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\refint\StoreApi.dll
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.pdb
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\StoreApi.genruntimeconfig.cache
+C:\Users\miska\OneDrive\Рабочий стол\AdoNetKT5-main\obj\Debug\net9.0\ref\StoreApi.dll

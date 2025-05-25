@@ -1,0 +1,21 @@
+@StoreApi_HostAddress = https://localhost:7124
+
+GET {{StoreApi_HostAddress}}/categories
+
+###
+
+POST {{StoreApi_HostAddress}}/categories
+Content-Type: application/json
+
+ {
+    "id": 3,
+    "name": "el",
+    "products": []
+  }
+
+###
+
+@id=1
+DELETE {{StoreApi_HostAddress}}/categories/{{id}}
+
+###
